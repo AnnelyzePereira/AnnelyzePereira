@@ -5,9 +5,9 @@ Meu nome é Annelyze Pereira
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-00001118879727sp@al.educacao.sp.gov.br
+-00001118879727sp@al.educacao.sp.gov.br
 
- PROJETOS
- https://editor.p5js.org/Annelyze0909/sketches/g0P8ZK_q4
+-PROJETOS
+-https://editor.p5js.org/Annelyze0909/sketches/g0P8ZK_q4
 
 
