@@ -8,6 +8,6 @@ Meu nome é Annelyze Pereira
 -00001118879727sp@al.educacao.sp.gov.br
 
 -PROJETOS
--https://editor.p5js.org/Annelyze0909/sketches/g0P8ZK_q4
+-Jogo Pong - https://editor.p5js.org/Annelyze0909/sketches/g0P8ZK_q4
 
 
